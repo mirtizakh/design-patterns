@@ -1,7 +1,7 @@
 package memento_pattern;
 
-public class MementoMain {
-    public static void main(String args[]){
+public class MementoPatternMain {
+    public static void main(String[] args) {
 
         Editor editor = new Editor();
         History history = new History();
