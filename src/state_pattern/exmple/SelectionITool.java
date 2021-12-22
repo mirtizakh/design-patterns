@@ -1,4 +1,4 @@
-package state_pattern;
+package state_pattern.exmple;
 
 public class SelectionITool implements Tool {
     @Override
